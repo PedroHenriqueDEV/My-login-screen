@@ -1,0 +1,68 @@
+body {
+    background-color: darkcyan
+}
+p#texts{
+    position: absolute;
+    color: aliceblue;
+    font-size: 25pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 450pt;
+}
+div#appz input#cargo {
+    position: relative;
+    left: 209pt;
+    top: 33pt;
+    
+}
+
+div#appz input.senha{
+    position: relative;
+    left: 71pt;
+    top: 33pt;
+    
+}
+div#appz input.idade {
+    position: relative;
+    left: 53pt;
+    top: 65pt;
+   
+}
+input{
+    position: absolute;
+    box-shadow: 2px 1px 2px black;
+    width: 150pt;
+    height: 25pt;
+    
+}
+input#nome{
+    position: relative;
+    left:  365pt;
+   
+}
+input.dctr{
+    position: relative;
+    left:  -85pt;
+    top: 0pt
+}
+div#appz button#Mandar{
+    position: relative;
+    width: 95pt;
+    height: 35pt;
+    box-shadow: 2px 2px 2px black;
+    left: -487pt;
+    top : 105pt
+}
+div#appz button.login{
+    position: relative;
+    width: 95pt;
+    height: 35pt;
+    box-shadow: 2px 2px 2px black;
+    left: -205pt;
+    top : 105pt
+}
+
+h1{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px
+}
